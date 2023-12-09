@@ -10,4 +10,5 @@ int main()
    cin>>b;
    cout<<endl<<"chisla  "<<a<<"  "<<b<< endl;
    cout<<"summ= "<<a+b<<endl;
+   cout<<"razn= "<<a-b<<endl;
 }
