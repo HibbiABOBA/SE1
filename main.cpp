@@ -1,10 +1,14 @@
+//
+// Eto uchebnaya programma
+// Authors: Makarov V.R., Unanyan K.A, Kazancev G.D., Bictagirov M.U, KE-317
+//
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-    //Eto uchebnaya programma
+
     int a,b;
    cout<<"vvedite chisla"<<endl;
    cin>>a;
