@@ -16,4 +16,5 @@ int main()
    cout<<endl<<"chisla  "<<a<<"  "<<b<< endl;
    cout<<"summ= "<<a+b<<endl;
    cout<<"razn= "<<a-b<<endl;
+   cout<<"proizv= "<<a*b<<endl;
 }
